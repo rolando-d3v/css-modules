@@ -1,5 +1,5 @@
 import React from "react";
-import css from "./react.module.css";
+import css from "./react.module.scss";
 import reactLogo from "../../assets/react.svg";
 import { useState } from "react";
 
